@@ -83,7 +83,7 @@ func main() {
 	}
 
 	// read one file
-	readSpecificFile(client, "BR_20230111_115032_0000001.meli")
+	readSpecificFile(client, "unencryptedBR_20230112_093014_0000001.meli")
 	// read dir
 	//reaDir(client, "./")
 
